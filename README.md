@@ -1,4 +1,4 @@
-# 👩🏾‍💻 Hi, I’m Debbie 👋
+# 👩🏾‍💻 Hi, I’m Deborah 👋
 
 🌟 **Aspiring Software Engineer | Backend Development | Cloud Enthusiast**  
 
