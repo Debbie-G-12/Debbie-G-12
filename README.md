@@ -2,9 +2,9 @@
 
 🌟 **Aspiring Software Engineer | Backend Development | Cloud Enthusiast**  
 
-I am currently a learner at ALX in the Backend Web Development and AWS programs.and i want to revamp my GitHub profile profile 
-My aim is to grow as a full-stack developer while contributing to projects that solves real-world problem and creating efficient,
-scalable solution
+I am currently a learner at ALX in the Backend Web Development and AWS programs.
+My aim is to grow as a full-stack developer while contributing to projects that solves 
+real-world problem and creating efficient, scalable solution
  
 
 
