@@ -8,10 +8,9 @@ My passion is building impactful solutions that make technology accessible and s
 
 ## 🚀 About Me
 - 🎓 Master’s in Software Engineering (HiLCoE School of Computer Science & Technology)  
-- 💼 Experience: Software Project Management, Travel Agent, and Marketing Manager  
-- 🌍 Love blending tech + travel + customer experience  
-- 📖 Currently exploring step by step to revamp your GitHub profil 
-
+- 💼 Experience: Software Project Management, Travel Agent, Marketing Manager  
+- 🌍 Passion for blending tech + travel + customer experience  
+- 📖 Currently exploring backend development and cloud computing step by step  
 
 
 ## 🛠 Skills & Tools
