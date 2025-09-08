@@ -1,2 +1,1 @@
-Write on Git!
-then add on README.md
+hey,Write on Git! then add the message on README.md.
